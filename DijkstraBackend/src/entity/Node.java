@@ -2,7 +2,7 @@ package entity;
 
 import java.util.ArrayList;
 
-
+///
 public class Node implements Comparable {
 	private String name;
 	private ArrayList<Archer> archers = new ArrayList<>();
